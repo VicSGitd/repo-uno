@@ -1,4 +1,4 @@
-nombre = "Victor Manuel"
+nombre = "Victor"
 apellido = "Soto"
 
 
